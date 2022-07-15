@@ -1,0 +1,26 @@
+{
+  "name": "walksafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinxin001/WalkSafe.git"
+  },
+  "author": "Shardul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinxin001/WalkSafe/issues"
+  },
+  "homepage": "https://github.com/xinxin001/WalkSafe#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "request": "^2.88.2",
+    "twilio": "^3.78.0"
+  }
+}
